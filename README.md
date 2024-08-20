@@ -1,0 +1,3 @@
+Abstract—This research aims to predict mortality rate of patients diagnosed with lung cancer based on their conditions and risk factors, using ML predictive models. The study will find patterns and correlations between various factors and cancer outcomes through feature engineering to assist healthcare providers in improving cancer treatment and patient care. Furthermore, comparative analysis will be conducted on selected ML models to evaluate the most effective model in predicting survival rate of lung cancer patients.![image](https://github.com/user-attachments/assets/b2ac2618-d3f7-4c9c-9845-cd1af439b0b4)
+
+Dataset Link: https://www.kaggle.com/datasets/masterdatasan/lung-cancer-mortality-datasets-v2/data
